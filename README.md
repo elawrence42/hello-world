@@ -1,4 +1,4 @@
 # hello-world
 
-I'm learning as I go.
+An attempt in secondedit to actually edit a file. curious how to add new. 
 
